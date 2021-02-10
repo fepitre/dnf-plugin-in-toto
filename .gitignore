@@ -1,0 +1,4 @@
+.idea
+artifacts
+**__pycache__
+test.py
